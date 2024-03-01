@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeitoEmSala_Aula4_Console", "FeitoEmSala_Aula4_Console\FeitoEmSala_Aula4_Console.csproj", "{8994D7F2-2D06-413C-9657-0CFC6B10F38B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeitoEmSala_Aula4_ClassLibrary", "FeitoEmSala_Aula4_ClassLibrary\FeitoEmSala_Aula4_ClassLibrary.csproj", "{07A80376-B2E2-40E3-8EFF-4F8132132356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8994D7F2-2D06-413C-9657-0CFC6B10F38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8994D7F2-2D06-413C-9657-0CFC6B10F38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8994D7F2-2D06-413C-9657-0CFC6B10F38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8994D7F2-2D06-413C-9657-0CFC6B10F38B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A80376-B2E2-40E3-8EFF-4F8132132356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A80376-B2E2-40E3-8EFF-4F8132132356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A80376-B2E2-40E3-8EFF-4F8132132356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A80376-B2E2-40E3-8EFF-4F8132132356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1D1785-2D58-4F6D-8DA3-2189E9CE52F6}
+	EndGlobalSection
+EndGlobal
